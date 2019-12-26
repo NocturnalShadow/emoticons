@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="qtquickcontrols2.conf">qtquickcontrols2.conf</file>
+        <file alias="images/Octa.jpg">images/Octa.jpg</file>
+        <file alias="images/space.jpg">images/space.jpg</file>
+    </qresource>
+</RCC>
